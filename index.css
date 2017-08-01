@@ -1,7 +1,10 @@
 ul li {
+  border: 1px solid;
   display:inline-block;
   padding-right:110px;
   font-family:monospace;
+  background-size: contain;
+  background-color: #80E5C6;
 }
 
 h1{
