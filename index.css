@@ -1,7 +1,7 @@
 ul.nav li {
-  border: grooved;
+  border: solid;
   display:inline-block;
-  font-family:monospace;
+  font-style: oblique:Haettenschweiler;
   background-color: #80E5C6;
 }
 
@@ -17,4 +17,3 @@ h1{
   background-attachment:fixed;
   min-height:600px;
 }
-  
