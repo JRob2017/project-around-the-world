@@ -1,7 +1,6 @@
-ul li {
-  border: 1px solid;
+ul.nav li {
+  border: grooved;
   display:inline-block;
-  padding-right:110px;
   font-family:monospace;
   background-color: #80E5C6;
 }
@@ -11,4 +10,10 @@ h1{
   background-color: #6BC1CF;
   background-size: cover;
   font-family:monospace;
+}
+.jumbotron{
+  background-image:"beach.jpg";
+  background-size:cover;
+  background-attachment:fixed;
+  min-height:600px;
 }
