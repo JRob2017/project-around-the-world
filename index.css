@@ -1,19 +1,20 @@
 ul.nav li {
   border: solid;
   display:inline-block;
-  font-style: oblique:Haettenschweiler;
+  font-family:monospace;
   background-color: #80E5C6;
+  font-size: 30px
 }
 
 h1{
   color:#4E5054;
   background-color: #6BC1CF;
   background-size: cover;
-  font-family:monospace;
+  font-family:sans-serif;
 }
-.jumbotron{
-  background-image:"beach.jpg";
-  background-size:cover;
-  background-attachment:fixed;
-  min-height:600px;
+
+<style>
+body{
+  background-image: src("background.jpg");
 }
+</style>
