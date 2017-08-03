@@ -64,3 +64,10 @@ p.red{
 .topnav .icon {
     display: none;
 }
+
+
+div.social-buttons{
+  background:white;
+  border-style: solid: 2px;
+  color:blue;
+}
