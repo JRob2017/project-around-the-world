@@ -68,6 +68,11 @@ p.red{
 
 div.social-buttons{
   background:white;
-  border-style: solid: 2px;
+  background-size: contain;
+  border-color: black;
+  border-style: solid;
+  border-width: medium;
   color:blue;
+  padding-right:30px;
+
 }
